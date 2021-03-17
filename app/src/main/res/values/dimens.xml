@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="align_margin">10dp</dimen>
+    <dimen name="icon_border_width">45dp</dimen>
+    <dimen name="icon_width">45dp</dimen>
+    <dimen name="icon_width_by_2">22.5dp</dimen>
+</resources>

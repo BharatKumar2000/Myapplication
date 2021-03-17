@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrderTrackActivity</string>
+    <string name="stage_5">Done</string>
+    <string name="stage_4">Delivered</string>
+    <string name="stage_3">On Way</string>
+    <string name="stage_2">Picked</string>
+    <string name="stage_1">Cooking</string>
+</resources>
